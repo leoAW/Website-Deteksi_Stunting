@@ -1,2 +1,2 @@
-# Website-Deteksi-Stunting.io
+# Website-Deteksi-Stunting.github.io
 
